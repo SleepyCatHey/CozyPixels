@@ -85,7 +85,7 @@
 
 Simply navigate to your desired category folder and download the wallpapers you like. All images are in high resolution.
 
-**📅 Wallpapers Last Updated:** `DD/MM/YYYY`
+**📅 Wallpapers Last Updated:** `05/12/2025`
 
 ---
 
