@@ -75,8 +75,21 @@
 - **[Catppuccin](https://github.com/SleepyCatHey/CozyPixels/tree/main/Catppuccin)** - Warm latte-inspired pastels
 - **[Nord](https://github.com/SleepyCatHey/CozyPixels/tree/main/Nord)** - Arctic, north-bluish color palette
 - **[One Dark](https://github.com/SleepyCatHey/CozyPixels/tree/main/One%20Dark)** - Comfortable dark theme
+- **[Anime Wallpapers](https://github.com/SleepyCatHey/CozyPixels/tree/main/Anime%20Wallpapers)** - As the name says it :)
+- **[Live Wallpapers](https://github.com/SleepyCatHey/CozyPixels/tree/main/Live%20Wallpapers)** - Some live wallpapers. Thanks to [Trypezz](https://github.com/Trypezz) for giving me a few too :D
+- **[SleepyCat](https://github.com/SleepyCatHey/CozyPixels/tree/main/SleepyCat)** - Some wallpapers of us White and Blac cat 🔥
+- **[idk where to place these](https://github.com/SleepyCatHey/CozyPixels/tree/main/idk%20where%20to%20place%20these)** - Wallpapers idk where to place lol
 
 <!-- ==================== DOWNLOAD INSTRUCTIONS ==================== -->
+
+--- 
+
+# 🩵 Support the project!
+
+- You can support this project by **donating** to my [YouTube channel](https://www.youtube.com/@SleepyCatHey) as that's the only source I got rn.
+- And if that's not possible, then you can also support me by **subscribing to my channel** or just adding a simple **star** to the project :D
+
+---
 
 ## 📥 Download
 
@@ -85,7 +98,7 @@
 
 Simply navigate to your desired category folder and download the wallpapers you like. All images are in high resolution.
 
-**📅 Wallpapers Last Updated:** `05/12/2025`
+**📅 Wallpapers Last Updated:** `29/09/2026`
 
 ---
 
@@ -119,6 +132,7 @@ A special thanks to these communities and sources where I found many of these be
 - [Nord wallpaper repo](https://github.com/linuxdotexe/nordic-wallpapers)
 - [Onedark wallpaper repo](https://github.com/Narmis-E/onedark-wallpapers)
 - [r/unixporn](https://www.reddit.com/r/unixporn) and [r/wallpaper](https://www.reddit.com/r/wallpaper) on Reddit
+- [SleepyCat](https://github.com/SleepyCatHey/CozyPixels/tree/main/SleepyCat) wallpapers are drawn by **[Officat](https://m.weibo.cn/u/7860793223)**. She's chinese and only on weibo, so help me to contact her as I want to say thanks to her and a lot to talk about :) 
 - Various artists on Twitter/X and Pinterest
 
 ---
