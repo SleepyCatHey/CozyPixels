@@ -1,0 +1,15 @@
+# Abstract & Artistic Wallpapers
+
+<p align="center">
+  <strong>Click any preview to open the full-size wallpaper.</strong>
+</p>
+
+<table width="100%">
+<tr><td><a href="Abstract-Nord.png"><img src="Abstract-Nord.png" width="100%" alt="Abstract-Nord"></a></td><td><a href="ign_colorful.png"><img src="ign_colorful.png" width="100%" alt="ign_colorful"></a></td><td><a href="ign_FluidifiedST-1.png"><img src="ign_FluidifiedST-1.png" width="100%" alt="ign_FluidifiedST-1"></a></td><td><a href="ign_FluidifiedST-2.png"><img src="ign_FluidifiedST-2.png" width="100%" alt="ign_FluidifiedST-2"></a></td></tr>
+<tr><td><a href="ign_MaterialMountains-1.png"><img src="ign_MaterialMountains-1.png" width="100%" alt="ign_MaterialMountains-1"></a></td><td><a href="ign_MaterialMountains-2.png"><img src="ign_MaterialMountains-2.png" width="100%" alt="ign_MaterialMountains-2"></a></td><td><a href="ign_nordic_rose.png"><img src="ign_nordic_rose.png" width="100%" alt="ign_nordic_rose"></a></td><td><a href="ign_nordic_triangle.png"><img src="ign_nordic_triangle.png" width="100%" alt="ign_nordic_triangle"></a></td></tr>
+<tr><td><a href="ign_Symbolics-1.png"><img src="ign_Symbolics-1.png" width="100%" alt="ign_Symbolics-1"></a></td><td><a href="ign_Symbolics-2.png"><img src="ign_Symbolics-2.png" width="100%" alt="ign_Symbolics-2"></a></td><td><a href="ign_vaporWave.png"><img src="ign_vaporWave.png" width="100%" alt="ign_vaporWave"></a></td><td><a href="ign_Viragegy-1.png"><img src="ign_Viragegy-1.png" width="100%" alt="ign_Viragegy-1"></a></td></tr>
+<tr><td><a href="ign_Viragegy-2.png"><img src="ign_Viragegy-2.png" width="100%" alt="ign_Viragegy-2"></a></td><td><a href="ign_Viragharom-1.png"><img src="ign_Viragharom-1.png" width="100%" alt="ign_Viragharom-1"></a></td><td><a href="ign_Viragharom-2.png"><img src="ign_Viragharom-2.png" width="100%" alt="ign_Viragharom-2"></a></td><td><a href="ign_Viragnegy-1.png"><img src="ign_Viragnegy-1.png" width="100%" alt="ign_Viragnegy-1"></a></td></tr>
+<tr><td><a href="ign_Viragnegy-2.png"><img src="ign_Viragnegy-2.png" width="100%" alt="ign_Viragnegy-2"></a></td><td><a href="ign_Wiravketto-1.png"><img src="ign_Wiravketto-1.png" width="100%" alt="ign_Wiravketto-1"></a></td><td><a href="ign_Wiravketto-2.png"><img src="ign_Wiravketto-2.png" width="100%" alt="ign_Wiravketto-2"></a></td><td><a href="Minimal-Nord.png"><img src="Minimal-Nord.png" width="100%" alt="Minimal-Nord"></a></td></tr>
+<tr><td><a href="nord_design.png"><img src="nord_design.png" width="100%" alt="nord_design"></a></td><td><a href="nord_triangles.png"><img src="nord_triangles.png" width="100%" alt="nord_triangles"></a></td><td><a href="nord-balloons.png"><img src="nord-balloons.png" width="100%" alt="nord-balloons"></a></td><td><a href="Nordic-Heroin.png"><img src="Nordic-Heroin.png" width="100%" alt="Nordic-Heroin"></a></td></tr>
+<tr><td><a href="nordic-obsession.png"><img src="nordic-obsession.png" width="100%" alt="nordic-obsession"></a></td><td><a href="prime-number-spiral.png"><img src="prime-number-spiral.png" width="100%" alt="prime-number-spiral"></a></td><td></td><td></td></tr>
+</table>
