@@ -1,211 +1,94 @@
-<div align="center">
+# Anime Wallpapers
 
-[![1348866](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/1348866.jpeg)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/1348866.jpeg)
-[![5jmmq765wych1](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/5jmmq765wych1.jpeg)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/5jmmq765wych1.jpeg)
-[![AerithFromDarkMagician](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/AerithFromDarkMagician.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/AerithFromDarkMagician.png)
-[![ED77654B-5F30-4B7A-B49E-8CA323E80100](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/ED77654B-5F30-4B7A-B49E-8CA323E80100.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/ED77654B-5F30-4B7A-B49E-8CA323E80100.png)
-[![Screenshot_2026-08-30_160841](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/Screenshot_2026-08-30_160841.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/Screenshot_2026-08-30_160841.png)
-[![bg001](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg001.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg001.png)
+<p align="center">
+  <strong>Click any preview to open the full-size wallpaper.</strong>
+</p>
 
-[![bg002](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg002.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg002.png)
-[![bg003](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg003.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg003.png)
-[![bg004](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg004.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg004.png)
-[![bg005](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg005.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg005.png)
-[![bg006](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg006.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg006.png)
-[![bg007](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg007.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg007.png)
+<style>
+  .anime-gallery {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(150px, 1fr));
+    gap: 12px;
+    align-items: stretch;
+    margin: 24px 0;
+  }
 
-[![bg008](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg008.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg008.png)
-[![bg009](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg009.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg009.png)
-[![bg010](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg010.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg010.png)
-[![bg011](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg011.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg011.png)
-[![bg012](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg012.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg012.png)
-[![bg013](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg013.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg013.png)
+  .anime-gallery a {
+    display: block;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
 
-[![bg014](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg014.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg014.png)
-[![bg015](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg015.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg015.png)
-[![bg016](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg016.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg016.png)
-[![bg017](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg017.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg017.png)
-[![bg018](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg018.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg018.png)
-[![bg019](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg019.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg019.png)
+  .anime-gallery a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 18px rgba(0,0,0,0.22);
+  }
 
-[![bg020](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg020.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg020.png)
-[![bg021](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg021.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg021.png)
-[![bg022](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg022.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg022.png)
-[![bg023](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg023.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg023.png)
-[![bg024](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg024.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg024.png)
-[![bg025](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg025.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg025.png)
+  .anime-gallery img {
+    display: block;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+    background: #111827;
+  }
 
-[![bg026](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg026.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg026.png)
-[![bg027](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg027.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg027.png)
-[![bg028](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg028.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg028.png)
-[![bg029](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg029.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg029.png)
-[![bg030](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg030.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg030.png)
-[![bg031](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg031.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg031.png)
+  @media (max-width: 1200px) {
+    .anime-gallery {
+      grid-template-columns: repeat(5, minmax(140px, 1fr));
+    }
+  }
 
-[![bg032](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg032.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg032.png)
-[![bg033](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg033.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg033.png)
-[![bg034](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg034.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg034.png)
-[![bg035](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg035.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg035.png)
-[![bg036](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg036.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg036.png)
-[![bg037](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg037.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg037.png)
+  @media (max-width: 980px) {
+    .anime-gallery {
+      grid-template-columns: repeat(4, minmax(130px, 1fr));
+    }
+  }
 
-[![bg038](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg038.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg038.png)
-[![bg039](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg039.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg039.png)
-[![bg040](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg040.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg040.png)
-[![bg041](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg041.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg041.png)
-[![bg042](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg042.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg042.png)
-[![bg043](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg043.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg043.png)
+  @media (max-width: 700px) {
+    .anime-gallery {
+      grid-template-columns: repeat(2, minmax(120px, 1fr));
+    }
+  }
 
-[![bg044](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg044.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg044.png)
-[![bg045](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg045.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg045.png)
-[![bg046](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg046.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg046.png)
-[![bg047](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg047.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg047.png)
-[![bg048](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg048.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg048.png)
-[![bg049](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg049.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg049.png)
+  @media (max-width: 420px) {
+    .anime-gallery {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
 
-[![bg050](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg050.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg050.png)
-[![bg051](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg051.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg051.png)
-[![bg052](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg052.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg052.png)
-[![bg053](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg053.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg053.png)
-[![bg054](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg054.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg054.png)
-[![bg055](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg055.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg055.png)
+<div class="anime-gallery">
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/1348866.jpeg"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/1348866.jpeg" alt="Wallpaper 1" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/5jmmq765wych1.jpeg"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/5jmmq765wych1.jpeg" alt="Wallpaper 2" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/AerithFromDarkMagician.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/AerithFromDarkMagician.png" alt="Wallpaper 3" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/ED77654B-5F30-4B7A-B49E-8CA323E80100.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/ED77654B-5F30-4B7A-B49E-8CA323E80100.png" alt="Wallpaper 4" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/Screenshot_2026-08-30_160841.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/Screenshot_2026-08-30_160841.png" alt="Wallpaper 5" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg001.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg001.png" alt="Wallpaper 6" /></a>
 
-[![bg056](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg056.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg056.png)
-[![bg057](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg057.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg057.png)
-[![bg058](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg058.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg058.png)
-[![bg059](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg059.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg059.png)
-[![bg060](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg060.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg060.png)
-[![bg061](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg061.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg061.png)
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg002.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg002.png" alt="Wallpaper 7" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg003.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg003.png" alt="Wallpaper 8" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg004.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg004.png" alt="Wallpaper 9" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg005.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg005.png" alt="Wallpaper 10" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg006.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg006.png" alt="Wallpaper 11" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg007.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg007.png" alt="Wallpaper 12" /></a>
 
-[![bg062](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg062.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg062.png)
-[![bg063](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg063.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg063.png)
-[![bg064](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg064.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg064.png)
-[![bg065](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg065.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg065.png)
-[![bg066](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg066.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg066.png)
-[![bg067](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg067.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg067.png)
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg008.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg008.png" alt="Wallpaper 13" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg009.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg009.png" alt="Wallpaper 14" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg010.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg010.png" alt="Wallpaper 15" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg011.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg011.png" alt="Wallpaper 16" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg012.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg012.png" alt="Wallpaper 17" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg013.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg013.png" alt="Wallpaper 18" /></a>
 
-[![bg068](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg068.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg068.png)
-[![bg069](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg069.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg069.png)
-[![bg070](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg070.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg070.png)
-[![bg071](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg071.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg071.png)
-[![bg072](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg072.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg072.png)
-[![bg073](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg073.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg073.png)
-
-[![bg074](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg074.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg074.png)
-[![bg075](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg075.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg075.png)
-[![bg076](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg076.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg076.png)
-[![bg077](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg077.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg077.png)
-[![bg078](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg078.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg078.png)
-[![bg079](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg079.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg079.png)
-
-[![bg080](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg080.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg080.png)
-[![bg081](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg081.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg081.png)
-[![bg082](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg082.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg082.png)
-[![bg083](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg083.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg083.png)
-[![bg084](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg084.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg084.png)
-[![bg085](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg085.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg085.png)
-
-[![bg086](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg086.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg086.png)
-[![bg087](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg087.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg087.png)
-[![bg088](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg088.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg088.png)
-[![bg089](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg089.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg089.png)
-[![bg090](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg090.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg090.png)
-[![bg091](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg091.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg091.png)
-
-[![bg092](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg092.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg092.png)
-[![bg093](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg093.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg093.png)
-[![bg094](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg094.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg094.png)
-[![bg095](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg095.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg095.png)
-[![bg096](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg096.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg096.png)
-[![bg097](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg097.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg097.png)
-
-[![bg098](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg098.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg098.png)
-[![bg099](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg099.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg099.png)
-[![bg100](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg100.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg100.png)
-[![bg101](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg101.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg101.png)
-[![bg102](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg102.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg102.png)
-[![bg103](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg103.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg103.png)
-
-[![bg104](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg104.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg104.png)
-[![bg105](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg105.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg105.png)
-[![bg106](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg106.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg106.png)
-[![bg107](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg107.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg107.png)
-[![bg108](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg108.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg108.png)
-[![bg109](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg109.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg109.png)
-
-[![bg110](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg110.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg110.png)
-[![bg111](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg111.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg111.png)
-[![bg112](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg112.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg112.png)
-[![bg113](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg113.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg113.png)
-[![bg114](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg114.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg114.png)
-[![bg115](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg115.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg115.png)
-
-[![bg116](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg116.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg116.png)
-[![bg117](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg117.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg117.png)
-[![bg118](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg118.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg118.png)
-[![bg119](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg119.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg119.png)
-[![bg120](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg120.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg120.png)
-[![bg121](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg121.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg121.png)
-
-[![bg122](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg122.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg122.png)
-[![bg123](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg123.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg123.png)
-[![bg124](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg124.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg124.png)
-[![bg125](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg125.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg125.png)
-[![bg126](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg126.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg126.png)
-[![bg127](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg127.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg127.png)
-
-[![bg128](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg128.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg128.png)
-[![bg129](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg129.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg129.png)
-[![bg130](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg130.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg130.png)
-[![bg131](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg131.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg131.png)
-[![bg132](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg132.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg132.png)
-[![bg133](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg133.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg133.png)
-
-[![bg134](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg134.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg134.png)
-[![bg135](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg135.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg135.png)
-[![bg136](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg136.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg136.png)
-[![bg137](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg137.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg137.png)
-[![bg138](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg138.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg138.png)
-[![bg139](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg139.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg139.png)
-
-[![bg140](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg140.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg140.png)
-[![bg141](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg141.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg141.png)
-[![bg142](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg142.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg142.png)
-[![bg143](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg143.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg143.png)
-[![bg144](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg144.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg144.png)
-[![bg145](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg145.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg145.png)
-
-[![bg146](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg146.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg146.png)
-[![bg147](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg147.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg147.png)
-[![bg148](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg148.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg148.png)
-[![bg149](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg149.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg149.png)
-[![bg150](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg150.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg150.png)
-[![bg151](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg151.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg151.png)
-
-[![bg152](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg152.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg152.png)
-[![bg153](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg153.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg153.png)
-[![bg154](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg154.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg154.png)
-[![bg155](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg155.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg155.png)
-[![bg156](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg156.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg156.png)
-[![bg157](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg157.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg157.png)
-
-[![bg158](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg158.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg158.png)
-[![bg159](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg159.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg159.png)
-[![bg160](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg160.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg160.png)
-[![bg161](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg161.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg161.png)
-[![bg162](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg162.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg162.png)
-[![bg163](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg163.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg163.png)
-
-[![bg164](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg164.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg164.png)
-[![bg165](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg165.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg165.png)
-[![bg166](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg166.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg166.png)
-[![bg167](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg167.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg167.png)
-[![bg168](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg168.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg168.png)
-[![Violet Evergarden](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/gigapixel-violet_evergarden_pic.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/gigapixel-violet_evergarden_pic.png)
-
-[![Violet Evergarden 2](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/violet-evergarden-5120x2880-19956.jpg)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/violet-evergarden-5120x2880-19956.jpg)
-[![wallhaven](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/wallhaven-8o6rmo.jpg)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/wallhaven-8o6rmo.jpg)
-[![wallhaven 2](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/wallhaven-ml3ek1.jpg)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/wallhaven-ml3ek1.jpg)
-[![Wings](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/wings.png)](https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/wings.png)
-
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg014.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg014.png" alt="Wallpaper 19" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg015.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg015.png" alt="Wallpaper 20" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg016.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg016.png" alt="Wallpaper 21" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg017.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg017.png" alt="Wallpaper 22" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg018.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg018.png" alt="Wallpaper 23" /></a>
+  <a href="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg019.png"><img src="https://github.com/SleepyCatHey/CozyPixels/raw/main/Anime%20Wallpapers/Wallpapers/bg019.png" alt="Wallpaper 24" /></a>
 </div>
+
+> This gallery is laid out like a real wallpaper board: side-by-side thumbnails, compact spacing, and responsive wrapping on smaller screens.
+
